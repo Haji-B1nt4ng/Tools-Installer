@@ -12,7 +12,7 @@ TeamZ : - CRACKERS Indo
 $ apt-get update && apt-get upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/Bintang-ID/Tools-Installer
+$ git clone https://github.com/Mr-cr4k/Tools-Installer
 $ cd Tools-Installer
 $ python tools.py
 
