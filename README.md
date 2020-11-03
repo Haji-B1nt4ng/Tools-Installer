@@ -10,7 +10,7 @@ TeamZ : - CRACKERS Indo
         - Termux Indonesia
 ```
 
-#INSTALL
+### INSTALL
 
 
 ```
