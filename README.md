@@ -1,6 +1,6 @@
 ### TOOLS INSTALLER
 
-php
+
 ```
 Thanks: - Karjok Pangesty
         - Rusmana-ID
@@ -12,7 +12,7 @@ TeamZ : - CRACKERS Indo
 
 #INSTALL
 
-php
+
 ```
 $ apt-get update && apt-get upgrade
 $ apt install python
